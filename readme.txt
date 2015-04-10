@@ -56,7 +56,7 @@ Dashboard &gt;&gt; Plan Promoter menu &gt;&gt; Add New
 A plan can be created just like a normal wordpress post/page. You will be able to embed images, videos, etc in the promotion templates.
 Either you can directly add the contents and align it using the visual editor or you can add the corresponding html code.
 
-= What are the Redirect Delay and Redirect Url settings?
+= What are the Redirect Delay and Redirect Url settings? =
 
 Redirect Delay corresponds to the time (seconds) for which the promotion will be displayed.
 Redirect Url is the link to which the users will be redirected after displaying the promotion for the time specified in the Redirect Delay section.
