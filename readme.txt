@@ -44,11 +44,11 @@ Click on 'Publish' option at the right side of the page to publish it.
 
 == Frequently Asked Questions ==
 
-= How can I use this plugin?
+= How can I use this plugin? =
 
 You can use this plugin to create and display advertisements during various site interaction sequences like newsletter signup, blog article display, etc.
 
-= How can I add new promotions?
+= How can I add new promotions? =
 
 You can add new promotions from the Dashboard.
 Dashboard &gt;&gt; Plan Promoter menu &gt;&gt; Add New
@@ -56,10 +56,15 @@ Dashboard &gt;&gt; Plan Promoter menu &gt;&gt; Add New
 A plan can be created just like a normal wordpress post/page. You will be able to embed images, videos, etc in the promotion templates.
 Either you can directly add the contents and align it using the visual editor or you can add the corresponding html code.
 
-= What are the \'Redirect Delay\' and \'Redirect Url\' settings?
+= What are the Redirect Delay and Redirect Url settings? =
 
 Redirect Delay corresponds to the time (seconds) for which the promotion will be displayed.
-Redirect Url is the link to which the users will be redirected after displaying the promotion for the time specified in the \'Redirect Delay\' section.
+Redirect Url is the link to which the users will be redirected after displaying the promotion for the time specified in the Redirect Delay section.
+
+= Need it customized? =
+
+Not exactly what you're looking for, but it's close? We can help you get the exact feature set for your requirements.
+Let's have a [quick chat!] (http://bobcares.com/contacts/)
 
 
 == Upgrade Notice ==
@@ -74,7 +79,6 @@ There is no need to upgrade just yet.
 3. Listing of all the Plan Promotions
 4. Displaying the Promotion Plan to users
 5. Redirected page displayed after the promotion
-
 
 == Changelog ==
 
