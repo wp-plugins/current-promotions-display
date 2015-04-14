@@ -63,7 +63,7 @@ Redirect Url is the link to which the users will be redirected after displaying 
 
 = Need it customized? =
 
-Not exactly what you're looking for, but it's close? We can help you get the exact feature set for your requirements.
+Not exactly what you're looking for, but it's close? At [Bobcares](http://bobcares.com/software-and-design-services/wordpress-plugins.html), we can help you get the exact feature set for your requirements.
 Let's have a [quick chat!](http://bobcares.com/contacts/)
 
 
