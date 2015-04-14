@@ -1,5 +1,5 @@
 === Current Promotions Display ===
-Contributors: bobcares
+Contributors: bobcares_plugins
 Tags: plan-promoter, custom-promotion-display, thank_you_page, offer-promotion, ad-promotion
 Requires at least: 3.0.1
 Tested up to: 4.1
