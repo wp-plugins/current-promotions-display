@@ -1,6 +1,6 @@
 === Current Promotions Display ===
 Contributors: bobcares_plugins
-Tags: plan promoter, promotion display, thank you page, offer promotion, ad promotion, sell offers
+Tags: promotions, plan promoter, promotion display, thank you page, offer promotion, ad promotion, sell offers
 Requires at least: 3.0.1
 Tested up to: 4.1
 Stable tag: 1.0
