@@ -1,6 +1,6 @@
 === Current Promotions Display ===
 Contributors: bobcares_plugins
-Tags: plan-promoter, custom-promotion-display, thank_you_page, offer-promotion, ad-promotion
+Tags: plan-promoter,custom-promotion-display,thank_you_page,offer-promotion,ad-promotion
 Requires at least: 3.0.1
 Tested up to: 4.1
 Stable tag: 1.0
@@ -37,7 +37,7 @@ http://bobcares.com/current-promotion-display.html
 2. Upload plugin directory to the /wp-content/plugins/ directory
 3. Activate the plugin through the 'Plugins' menu in WordPress
 
-On successful activation, a menu \'Plan Promoter\' will be displayed on the \'admin dashboard\'.  Create new promotions by clicking on the \'Add new Promotion/' button.
+On successful activation, a menu Plan Promoter will be displayed on the admin dashboard.  Create new promotions by clicking on the Add new Promotion button.
 You can configure the redirect delay and the redirect url from this page.
 Click on 'Publish' option at the right side of the page to publish it.
 
@@ -59,7 +59,7 @@ Either you can directly add the contents and align it using the visual editor or
 = What are the Redirect Delay and Redirect Url settings? =
 
 Redirect Delay corresponds to the time (seconds) for which the promotion will be displayed.
-Redirect Url is the link to which the users will be redirected after displaying the promotion for the time specified in the Redirect Delay section.
+Redirect URL is the link to which the users will be redirected after displaying the promotion for the time specified in the Redirect Delay section.
 
 = Need it customized? =
 
